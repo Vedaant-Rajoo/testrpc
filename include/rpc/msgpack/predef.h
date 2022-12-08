@@ -13,7 +13,7 @@ http://www.boost.org/LICENSE_1_0.txt)
 #include <rpc/msgpack/predef/language.h>
 #include <rpc/msgpack/predef/architecture.h>
 #include <rpc/msgpack/predef/compiler.h>
-#include <rpc/msgpack/predef/library.h>
+#include <rpc/msgpack/predef/server.h>
 #include <rpc/msgpack/predef/os.h>
 #include <rpc/msgpack/predef/other.h>
 #include <rpc/msgpack/predef/platform.h>
